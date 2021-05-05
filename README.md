@@ -1,2 +1,5 @@
-# Object-Oriented-Assignment-Stage-2
-Java system that manages a parking lot for a university.
+Neomorphism Design Garthanri Park Contact Page
+*This is a simple single page website that was inspired by Neomorphism Design.
+This website was built using 
+*HTML
+*CSS
